@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá, eu sou a Leticya Danielly 👋
 
-<!--
-**leticyadanielly/leticyadanielly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou entusiasta de Machine Learning, Visão Computacional e desenvolvimento de projetos com Python e outras tecnologias.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Sobre mim
+
+- Apaixonada por Inteligência Artificial e Ciência de Dados.
+- Experiência prática com redução de dimensionalidade, redes neurais e algoritmos de treinamento.
+- Sempre buscando aprender e aplicar novos conhecimentos em projetos reais.
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+- Python | TensorFlow | PyTorch
+- OpenCV | Scikit-learn
+- Google Colab | Jupyter Notebook
+- Git | GitHub
+
+---
+
+## 🚀 Projetos em destaque
+
+- [Projeto Redução de Dimensionalidade com redes neurais](https://github.com/leticyadanielly/projeto1) - Implementação de técnicas para otimizar imagens para redes neurais.
+- [PRedução de Dimensionalidade em Imagens para Redes Neurais e Algoritmos de Treinamento](https://github.com/leticyadanielly/projeto1)) - Aplicação prática em redução de dimensionalidade de imagens.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [linkedin.com/in/leticya](https://www.linkedin.com/in/leticya)
+- Email: leticyadanielly@gmail.com
+
+---
+
+Se quiser conhecer mais, fique à vontade para explorar meus repositórios! 😊
